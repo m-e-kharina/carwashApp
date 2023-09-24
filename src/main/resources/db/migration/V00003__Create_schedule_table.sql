@@ -1,0 +1,1 @@
+CREATE TABLE schedule (id bigint generated always as identity, userid bigint, serviceid bigint, visittime timestamp);
